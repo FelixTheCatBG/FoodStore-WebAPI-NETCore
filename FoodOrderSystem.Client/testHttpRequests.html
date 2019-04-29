@@ -1,0 +1,192 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script></script>
+</head>
+<body>
+    <input id="btn1" type="button" value="Get All Orders" />
+    <input id="btn2" type="button" value="Get All Products" />
+    <input id="btn3" type="button" value="Get All OrderProducts" />
+    <input id="btn" type="button" value="Get All Orders" />
+    <input id="btn5" type="button" value="Post Product" />
+
+
+
+    Email: <input type="text" id="inputEmail"><br>
+    Pass:<input type="text" id="inputPassword"><br>
+    <input id="loginBtn" type="button" value="Login">
+    <p>Result:</p>
+    <p id="result"></p>
+
+    <input id="createOrder" type="button" value="CreateOrder" />
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var ulEMployees = $('#ulEmployees');
+
+            $('#btn1').click(function () {
+                $.ajax({
+                    type: 'GET',
+                    url: 'http://localhost:52245/api/order',
+                    dataType: 'json',
+                    success: function (data) {
+                        alert(data);
+                    }
+                })
+            });
+        });
+        $(document).ready(function () {
+            var ulEMployees = $('#ulEmployees');
+
+            $('#btn2').click(function () {
+                $.ajax({
+                    type: 'GET',
+                    url: 'http://localhost:52245/api/product',
+                    dataType: 'json',
+                    success: function (data) {
+                        alert(data);
+                    }
+                })
+            });
+        });
+        $(document).ready(function () {
+
+
+            $('#btn3').click(function () {
+                $.ajax({
+                    type: 'GET',
+                    url: 'http://localhost:52245/api/order',
+                    dataType: 'json',
+                    success: function (data) {
+                        alert(data);
+                    }
+                })
+            });
+        });
+
+        $(document).ready(function () {
+            $('#btn4').click(function () {
+                $.ajax({
+                    type: 'GET',
+                    url: 'http://localhost:52245/api/order',
+                    dataType: 'json',
+                    success: function (data) {
+                        alert(data);
+                    }
+                })
+            });
+        });
+
+        $(document).ready(function () {
+            $('#btn5').click(function () {
+                $.ajax({
+                    type: 'POST',
+                    url: 'http://localhost:52245/api/authuser/createuser',
+                    data: '{email:"free25@email.com",password:"password"}',
+                    contentType: "application/json;charset=utf-8",
+                    dataType: "json",
+                    success: function (json) {
+                        alert(json);
+                    },
+                    error: function (response) {
+                        alert('error');
+                    }
+                })
+            });
+        });
+
+
+        $(document).ready(function () {
+            $('#loginBtn').click(function () {
+                let emailInput = document.getElementById("inputEmail").value
+                let passwordInput = document.getElementById("inputPassword").value
+                let postData = {
+                    "email": "admin@email.com",
+                    "password": "password"
+                };
+
+                let postData2 = {
+                    "email": emailInput,
+                    "password": passwordInput
+                };
+                console.log(postData);
+                //console.log(postData2);
+                //console.log(emailInput);
+
+                $.ajax({
+                    url: "https://localhost:5001/api/authuser/login",
+                    type: "POST",
+                    contentType: "application/json",
+
+                    data: JSON.stringify(postData),
+                    dataType: "json",
+                    success: function (result) {
+                        switch (result) {
+                            case true:
+                                processResponse(result);
+                                break;
+                            default:
+                                console.log(result)
+                        }
+                    },
+                    error: function (xhr, ajaxOptions, thrownError) {
+                        alert(xhr.status);
+                        alert(thrownError);
+                    }
+                });
+
+            });
+        });
+
+        $(document).ready(function () {
+            $('#createOrder').click(function () {
+              
+                let postData = {
+                    "info": {
+                        "reservationTime": "2018-11-09T00:00:00",
+                        "totalPrice": 25,
+                        "takeAway": true
+
+                    },
+                    "products": [
+                        {
+                            "id": 1,
+                            "quantity": 2
+                        }, {
+                            "id": 2,
+                            "quantity": 2
+                        }]
+                };
+
+                console.log(postData);
+     
+
+                $.ajax({
+                    url: "https://localhost:5001/api/authuser/createorder",
+                    type: "POST",
+                    contentType: "application/json",
+
+                    data: JSON.stringify(postData),
+                    dataType: "json",
+                    success: function (result) {
+                        switch (result) {
+                            case true:
+                                processResponse(result);
+                                break;
+                            default:
+                                console.log(result)
+                        }
+                    },
+                    error: function (xhr, ajaxOptions, thrownError) {
+                        alert(xhr.status);
+                        alert(thrownError);
+                    }
+                });
+
+            });
+        });
+
+    </script>
+</body>
+</html>

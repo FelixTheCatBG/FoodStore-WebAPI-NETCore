@@ -1,0 +1,84 @@
+C:\Users\Vasil\source\repos\FoodOrderSystemIdentity\FoodOrderSystem.Client\bin\Debug\netcoreapp2.1\FoodOrderSystem.Client.deps.json
+C:\Users\Vasil\source\repos\FoodOrderSystemIdentity\FoodOrderSystem.Client\bin\Debug\netcoreapp2.1\FoodOrderSystem.Client.runtimeconfig.json
+C:\Users\Vasil\source\repos\FoodOrderSystemIdentity\FoodOrderSystem.Client\bin\Debug\netcoreapp2.1\FoodOrderSystem.Client.runtimeconfig.dev.json
+C:\Users\Vasil\source\repos\FoodOrderSystemIdentity\FoodOrderSystem.Client\bin\Debug\netcoreapp2.1\FoodOrderSystem.Client.dll
+C:\Users\Vasil\source\repos\FoodOrderSystemIdentity\FoodOrderSystem.Client\bin\Debug\netcoreapp2.1\FoodOrderSystem.Client.pdb
+C:\Users\Vasil\source\repos\FoodOrderSystemIdentity\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.csprojAssemblyReference.cache
+C:\Users\Vasil\source\repos\FoodOrderSystemIdentity\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.csproj.CoreCompileInputs.cache
+C:\Users\Vasil\source\repos\FoodOrderSystemIdentity\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.RazorAssemblyInfo.cache
+C:\Users\Vasil\source\repos\FoodOrderSystemIdentity\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.RazorAssemblyInfo.cs
+C:\Users\Vasil\source\repos\FoodOrderSystemIdentity\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.AssemblyInfoInputs.cache
+C:\Users\Vasil\source\repos\FoodOrderSystemIdentity\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.AssemblyInfo.cs
+C:\Users\Vasil\source\repos\FoodOrderSystemIdentity\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.RazorTargetAssemblyInfo.cache
+C:\Users\Vasil\source\repos\FoodOrderSystemIdentity\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.dll
+C:\Users\Vasil\source\repos\FoodOrderSystemIdentity\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.pdb
+C:\Users\Vasil\Desktop\WebApiTryOut\FoodOrderSystem.Client\bin\Debug\netcoreapp2.1\FoodOrderSystem.Client.deps.json
+C:\Users\Vasil\Desktop\WebApiTryOut\FoodOrderSystem.Client\bin\Debug\netcoreapp2.1\FoodOrderSystem.Client.runtimeconfig.json
+C:\Users\Vasil\Desktop\WebApiTryOut\FoodOrderSystem.Client\bin\Debug\netcoreapp2.1\FoodOrderSystem.Client.runtimeconfig.dev.json
+C:\Users\Vasil\Desktop\WebApiTryOut\FoodOrderSystem.Client\bin\Debug\netcoreapp2.1\FoodOrderSystem.Client.dll
+C:\Users\Vasil\Desktop\WebApiTryOut\FoodOrderSystem.Client\bin\Debug\netcoreapp2.1\FoodOrderSystem.Client.pdb
+C:\Users\Vasil\Desktop\WebApiTryOut\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.csprojAssemblyReference.cache
+C:\Users\Vasil\Desktop\WebApiTryOut\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.csproj.CoreCompileInputs.cache
+C:\Users\Vasil\Desktop\WebApiTryOut\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.RazorAssemblyInfo.cache
+C:\Users\Vasil\Desktop\WebApiTryOut\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.RazorAssemblyInfo.cs
+C:\Users\Vasil\Desktop\WebApiTryOut\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.AssemblyInfoInputs.cache
+C:\Users\Vasil\Desktop\WebApiTryOut\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.AssemblyInfo.cs
+C:\Users\Vasil\Desktop\WebApiTryOut\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.RazorTargetAssemblyInfo.cache
+C:\Users\Vasil\Desktop\WebApiTryOut\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.dll
+C:\Users\Vasil\Desktop\WebApiTryOut\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.pdb
+C:\Users\Vasil\Desktop\WebDevelopmentCourse\FirstSemesterAssignment\FINALFoodStoreFILES\Back End\FoodOrderSystem.Client\bin\Debug\netcoreapp2.1\FoodOrderSystem.Client.deps.json
+C:\Users\Vasil\Desktop\WebDevelopmentCourse\FirstSemesterAssignment\FINALFoodStoreFILES\Back End\FoodOrderSystem.Client\bin\Debug\netcoreapp2.1\FoodOrderSystem.Client.runtimeconfig.json
+C:\Users\Vasil\Desktop\WebDevelopmentCourse\FirstSemesterAssignment\FINALFoodStoreFILES\Back End\FoodOrderSystem.Client\bin\Debug\netcoreapp2.1\FoodOrderSystem.Client.runtimeconfig.dev.json
+C:\Users\Vasil\Desktop\WebDevelopmentCourse\FirstSemesterAssignment\FINALFoodStoreFILES\Back End\FoodOrderSystem.Client\bin\Debug\netcoreapp2.1\FoodOrderSystem.Client.dll
+C:\Users\Vasil\Desktop\WebDevelopmentCourse\FirstSemesterAssignment\FINALFoodStoreFILES\Back End\FoodOrderSystem.Client\bin\Debug\netcoreapp2.1\FoodOrderSystem.Client.pdb
+C:\Users\Vasil\Desktop\WebDevelopmentCourse\FirstSemesterAssignment\FINALFoodStoreFILES\Back End\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.csprojAssemblyReference.cache
+C:\Users\Vasil\Desktop\WebDevelopmentCourse\FirstSemesterAssignment\FINALFoodStoreFILES\Back End\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.csproj.CoreCompileInputs.cache
+C:\Users\Vasil\Desktop\WebDevelopmentCourse\FirstSemesterAssignment\FINALFoodStoreFILES\Back End\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.RazorAssemblyInfo.cache
+C:\Users\Vasil\Desktop\WebDevelopmentCourse\FirstSemesterAssignment\FINALFoodStoreFILES\Back End\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.RazorAssemblyInfo.cs
+C:\Users\Vasil\Desktop\WebDevelopmentCourse\FirstSemesterAssignment\FINALFoodStoreFILES\Back End\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.AssemblyInfoInputs.cache
+C:\Users\Vasil\Desktop\WebDevelopmentCourse\FirstSemesterAssignment\FINALFoodStoreFILES\Back End\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.AssemblyInfo.cs
+C:\Users\Vasil\Desktop\WebDevelopmentCourse\FirstSemesterAssignment\FINALFoodStoreFILES\Back End\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.RazorTargetAssemblyInfo.cache
+C:\Users\Vasil\Desktop\WebDevelopmentCourse\FirstSemesterAssignment\FINALFoodStoreFILES\Back End\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.dll
+C:\Users\Vasil\Desktop\WebDevelopmentCourse\FirstSemesterAssignment\FINALFoodStoreFILES\Back End\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.pdb
+C:\Users\Vasil\Desktop\Back End\FoodOrderSystem.Client\bin\Debug\netcoreapp2.1\FoodOrderSystem.Client.deps.json
+C:\Users\Vasil\Desktop\Back End\FoodOrderSystem.Client\bin\Debug\netcoreapp2.1\FoodOrderSystem.Client.runtimeconfig.json
+C:\Users\Vasil\Desktop\Back End\FoodOrderSystem.Client\bin\Debug\netcoreapp2.1\FoodOrderSystem.Client.runtimeconfig.dev.json
+C:\Users\Vasil\Desktop\Back End\FoodOrderSystem.Client\bin\Debug\netcoreapp2.1\FoodOrderSystem.Client.dll
+C:\Users\Vasil\Desktop\Back End\FoodOrderSystem.Client\bin\Debug\netcoreapp2.1\FoodOrderSystem.Client.pdb
+C:\Users\Vasil\Desktop\Back End\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.csprojAssemblyReference.cache
+C:\Users\Vasil\Desktop\Back End\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.csproj.CoreCompileInputs.cache
+C:\Users\Vasil\Desktop\Back End\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.RazorAssemblyInfo.cache
+C:\Users\Vasil\Desktop\Back End\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.RazorAssemblyInfo.cs
+C:\Users\Vasil\Desktop\Back End\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.AssemblyInfoInputs.cache
+C:\Users\Vasil\Desktop\Back End\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.AssemblyInfo.cs
+C:\Users\Vasil\Desktop\Back End\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.RazorTargetAssemblyInfo.cache
+C:\Users\Vasil\Desktop\Back End\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.dll
+C:\Users\Vasil\Desktop\Back End\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.pdb
+C:\Users\Vasil\Desktop\Back End - Copy\FoodOrderSystem.Client\bin\Debug\netcoreapp2.1\FoodOrderSystem.Client.deps.json
+C:\Users\Vasil\Desktop\Back End - Copy\FoodOrderSystem.Client\bin\Debug\netcoreapp2.1\FoodOrderSystem.Client.runtimeconfig.json
+C:\Users\Vasil\Desktop\Back End - Copy\FoodOrderSystem.Client\bin\Debug\netcoreapp2.1\FoodOrderSystem.Client.runtimeconfig.dev.json
+C:\Users\Vasil\Desktop\Back End - Copy\FoodOrderSystem.Client\bin\Debug\netcoreapp2.1\FoodOrderSystem.Client.dll
+C:\Users\Vasil\Desktop\Back End - Copy\FoodOrderSystem.Client\bin\Debug\netcoreapp2.1\FoodOrderSystem.Client.pdb
+C:\Users\Vasil\Desktop\Back End - Copy\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.csprojAssemblyReference.cache
+C:\Users\Vasil\Desktop\Back End - Copy\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.csproj.CoreCompileInputs.cache
+C:\Users\Vasil\Desktop\Back End - Copy\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.RazorAssemblyInfo.cache
+C:\Users\Vasil\Desktop\Back End - Copy\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.RazorAssemblyInfo.cs
+C:\Users\Vasil\Desktop\Back End - Copy\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.AssemblyInfoInputs.cache
+C:\Users\Vasil\Desktop\Back End - Copy\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.AssemblyInfo.cs
+C:\Users\Vasil\Desktop\Back End - Copy\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.RazorTargetAssemblyInfo.cache
+C:\Users\Vasil\Desktop\Back End - Copy\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.dll
+C:\Users\Vasil\Desktop\Back End - Copy\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.pdb
+C:\Users\Vasil\Desktop\WebDevelopmentCourse\FirstSemester\FirstSemesterAssignment\FINALFoodStoreFILES\Back End - AfterDeadline\FoodOrderSystem.Client\bin\Debug\netcoreapp2.1\FoodOrderSystem.Client.deps.json
+C:\Users\Vasil\Desktop\WebDevelopmentCourse\FirstSemester\FirstSemesterAssignment\FINALFoodStoreFILES\Back End - AfterDeadline\FoodOrderSystem.Client\bin\Debug\netcoreapp2.1\FoodOrderSystem.Client.runtimeconfig.json
+C:\Users\Vasil\Desktop\WebDevelopmentCourse\FirstSemester\FirstSemesterAssignment\FINALFoodStoreFILES\Back End - AfterDeadline\FoodOrderSystem.Client\bin\Debug\netcoreapp2.1\FoodOrderSystem.Client.runtimeconfig.dev.json
+C:\Users\Vasil\Desktop\WebDevelopmentCourse\FirstSemester\FirstSemesterAssignment\FINALFoodStoreFILES\Back End - AfterDeadline\FoodOrderSystem.Client\bin\Debug\netcoreapp2.1\FoodOrderSystem.Client.dll
+C:\Users\Vasil\Desktop\WebDevelopmentCourse\FirstSemester\FirstSemesterAssignment\FINALFoodStoreFILES\Back End - AfterDeadline\FoodOrderSystem.Client\bin\Debug\netcoreapp2.1\FoodOrderSystem.Client.pdb
+C:\Users\Vasil\Desktop\WebDevelopmentCourse\FirstSemester\FirstSemesterAssignment\FINALFoodStoreFILES\Back End - AfterDeadline\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.csprojAssemblyReference.cache
+C:\Users\Vasil\Desktop\WebDevelopmentCourse\FirstSemester\FirstSemesterAssignment\FINALFoodStoreFILES\Back End - AfterDeadline\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.csproj.CoreCompileInputs.cache
+C:\Users\Vasil\Desktop\WebDevelopmentCourse\FirstSemester\FirstSemesterAssignment\FINALFoodStoreFILES\Back End - AfterDeadline\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.RazorAssemblyInfo.cache
+C:\Users\Vasil\Desktop\WebDevelopmentCourse\FirstSemester\FirstSemesterAssignment\FINALFoodStoreFILES\Back End - AfterDeadline\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.RazorAssemblyInfo.cs
+C:\Users\Vasil\Desktop\WebDevelopmentCourse\FirstSemester\FirstSemesterAssignment\FINALFoodStoreFILES\Back End - AfterDeadline\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.AssemblyInfoInputs.cache
+C:\Users\Vasil\Desktop\WebDevelopmentCourse\FirstSemester\FirstSemesterAssignment\FINALFoodStoreFILES\Back End - AfterDeadline\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.AssemblyInfo.cs
+C:\Users\Vasil\Desktop\WebDevelopmentCourse\FirstSemester\FirstSemesterAssignment\FINALFoodStoreFILES\Back End - AfterDeadline\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.RazorTargetAssemblyInfo.cache
+C:\Users\Vasil\Desktop\WebDevelopmentCourse\FirstSemester\FirstSemesterAssignment\FINALFoodStoreFILES\Back End - AfterDeadline\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.dll
+C:\Users\Vasil\Desktop\WebDevelopmentCourse\FirstSemester\FirstSemesterAssignment\FINALFoodStoreFILES\Back End - AfterDeadline\FoodOrderSystem.Client\obj\Debug\netcoreapp2.1\FoodOrderSystem.Client.pdb
